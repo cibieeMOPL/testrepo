@@ -84,6 +84,10 @@
     
     
     
+    
+    
+    
+    
     return [sectionAnimals count];
 }
 
