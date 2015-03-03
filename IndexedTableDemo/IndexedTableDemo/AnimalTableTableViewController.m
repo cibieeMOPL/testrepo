@@ -79,6 +79,11 @@
     // Return the number of rows in the section.
     NSString *sectionTitle = [animalSectionTitles objectAtIndex:section];
     NSArray *sectionAnimals = [animals objectForKey:sectionTitle];
+    
+    
+    
+    
+    
     return [sectionAnimals count];
 }
 
